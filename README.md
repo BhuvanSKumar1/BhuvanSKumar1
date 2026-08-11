@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I'm Bhuvan Kumar
+# 👋 Hi, I'm Bhuvan S Kumar
 
 ### 💻 Aspiring Software Engineer | CS Student | Developer
 
